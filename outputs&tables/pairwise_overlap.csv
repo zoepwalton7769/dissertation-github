@@ -1,0 +1,7 @@
+network_type,model_a,model_b,shared_nodes,node_union,node_jaccard,shared_edges,edge_union,edge_jaccard,unique_to_a,unique_to_b
+controlled_seed,arc_apex,arc_lite,21,21,1.0,25,61,0.4098360655737705,14,22
+controlled_seed,arc_apex,qwen_plus,18,22,0.8181818181818182,19,72,0.2638888888888889,20,33
+controlled_seed,arc_lite,qwen_plus,18,22,0.8181818181818182,25,74,0.33783783783783783,22,27
+expanded,arc_apex,arc_lite,100,115,0.8695652173913043,144,447,0.3221476510067114,212,91
+expanded,arc_apex,qwen_plus,91,115,0.7913043478260869,110,497,0.22132796780684105,246,141
+expanded,arc_lite,qwen_plus,82,109,0.7522935779816514,98,388,0.25257731958762886,137,153

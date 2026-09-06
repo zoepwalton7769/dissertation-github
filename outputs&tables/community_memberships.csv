@@ -1,0 +1,368 @@
+network_type,model,community,node,is_seed
+controlled_seed_network,arc_apex,1,A. Philip Randolph,True
+controlled_seed_network,arc_apex,1,Bayard Rustin,True
+controlled_seed_network,arc_apex,1,James Lawson,True
+controlled_seed_network,arc_apex,1,March on Washington for Jobs and Freedom,True
+controlled_seed_network,arc_apex,1,Martin Luther King Jr.,True
+controlled_seed_network,arc_apex,1,Montgomery Bus Boycott,True
+controlled_seed_network,arc_apex,2,Bob Moses,True
+controlled_seed_network,arc_apex,2,Freedom Rides,True
+controlled_seed_network,arc_apex,2,James Forman,True
+controlled_seed_network,arc_apex,2,John Lewis,True
+controlled_seed_network,arc_apex,2,Student Nonviolent Coordinating Committee,True
+controlled_seed_network,arc_apex,3,Andrew Young,True
+controlled_seed_network,arc_apex,3,Medgar Evers,True
+controlled_seed_network,arc_apex,3,National Association for the Advancement of Colored People,True
+controlled_seed_network,arc_apex,3,Southern Christian Leadership Conference,True
+controlled_seed_network,arc_apex,4,Diane Nash,True
+controlled_seed_network,arc_apex,4,Ella Baker,True
+controlled_seed_network,arc_apex,4,Fannie Lou Hamer,True
+controlled_seed_network,arc_apex,4,Rosa Parks,True
+controlled_seed_network,arc_apex,5,Malcolm X,True
+controlled_seed_network,arc_apex,5,Stokely Carmichael,True
+controlled_seed_network,arc_lite,1,Bob Moses,True
+controlled_seed_network,arc_lite,1,Freedom Rides,True
+controlled_seed_network,arc_lite,1,James Forman,True
+controlled_seed_network,arc_lite,1,John Lewis,True
+controlled_seed_network,arc_lite,1,Student Nonviolent Coordinating Committee,True
+controlled_seed_network,arc_lite,2,Diane Nash,True
+controlled_seed_network,arc_lite,2,Ella Baker,True
+controlled_seed_network,arc_lite,2,Fannie Lou Hamer,True
+controlled_seed_network,arc_lite,2,Montgomery Bus Boycott,True
+controlled_seed_network,arc_lite,2,Rosa Parks,True
+controlled_seed_network,arc_lite,3,Andrew Young,True
+controlled_seed_network,arc_lite,3,Medgar Evers,True
+controlled_seed_network,arc_lite,3,National Association for the Advancement of Colored People,True
+controlled_seed_network,arc_lite,3,Southern Christian Leadership Conference,True
+controlled_seed_network,arc_lite,4,James Lawson,True
+controlled_seed_network,arc_lite,4,Malcolm X,True
+controlled_seed_network,arc_lite,4,Martin Luther King Jr.,True
+controlled_seed_network,arc_lite,4,Stokely Carmichael,True
+controlled_seed_network,arc_lite,5,A. Philip Randolph,True
+controlled_seed_network,arc_lite,5,Bayard Rustin,True
+controlled_seed_network,arc_lite,5,March on Washington for Jobs and Freedom,True
+controlled_seed_network,qwen_plus,1,A. Philip Randolph,True
+controlled_seed_network,qwen_plus,1,Bayard Rustin,True
+controlled_seed_network,qwen_plus,1,James Lawson,True
+controlled_seed_network,qwen_plus,1,Malcolm X,True
+controlled_seed_network,qwen_plus,1,March on Washington for Jobs and Freedom,True
+controlled_seed_network,qwen_plus,1,Martin Luther King Jr.,True
+controlled_seed_network,qwen_plus,1,National Association for the Advancement of Colored People,True
+controlled_seed_network,qwen_plus,1,Southern Christian Leadership Conference,True
+controlled_seed_network,qwen_plus,2,Congress of Racial Equality,True
+controlled_seed_network,qwen_plus,2,Freedom Rides,True
+controlled_seed_network,qwen_plus,2,James Forman,True
+controlled_seed_network,qwen_plus,2,John Lewis,True
+controlled_seed_network,qwen_plus,2,Medgar Evers,True
+controlled_seed_network,qwen_plus,2,Student Nonviolent Coordinating Committee,True
+controlled_seed_network,qwen_plus,3,Diane Nash,True
+controlled_seed_network,qwen_plus,3,Ella Baker,True
+controlled_seed_network,qwen_plus,3,Fannie Lou Hamer,True
+controlled_seed_network,qwen_plus,3,Montgomery Bus Boycott,True
+controlled_seed_network,qwen_plus,3,Rosa Parks,True
+expanded_second_pass,arc_apex,1,Alvin J. Bronstein,False
+expanded_second_pass,arc_apex,1,Atlanta,False
+expanded_second_pass,arc_apex,1,Bob Moses,True
+expanded_second_pass,arc_apex,1,Brooklyn,False
+expanded_second_pass,arc_apex,1,Charles McDew,False
+expanded_second_pass,arc_apex,1,Cleveland Sellers,False
+expanded_second_pass,arc_apex,1,Congress of Racial Equality,True
+expanded_second_pass,arc_apex,1,Council of Federated Organizations,False
+expanded_second_pass,arc_apex,1,Dave Dennis,False
+expanded_second_pass,arc_apex,1,Dennis,False
+expanded_second_pass,arc_apex,1,Dorie Ladner,False
+expanded_second_pass,arc_apex,1,Ella Baker,True
+expanded_second_pass,arc_apex,1,Fannie Lou Hamer,True
+expanded_second_pass,arc_apex,1,Freedom Rides,True
+expanded_second_pass,arc_apex,1,Freedom Schools,False
+expanded_second_pass,arc_apex,1,Freedom Summer,False
+expanded_second_pass,arc_apex,1,Freedom houses,False
+expanded_second_pass,arc_apex,1,James Chaney,False
+expanded_second_pass,arc_apex,1,James Forman,True
+expanded_second_pass,arc_apex,1,Jean Wiley,False
+expanded_second_pass,arc_apex,1,Ku Klux Klan,False
+expanded_second_pass,arc_apex,1,Len Holt,False
+expanded_second_pass,arc_apex,1,Mennonite House,False
+expanded_second_pass,arc_apex,1,Mississippi Freedom Summer,False
+expanded_second_pass,arc_apex,1,Ruby Doris Smith Robinson,False
+expanded_second_pass,arc_apex,1,Schwerner,False
+expanded_second_pass,arc_apex,1,Simpson,False
+expanded_second_pass,arc_apex,1,Sojourner Truth,False
+expanded_second_pass,arc_apex,1,Sojourner Truth Garage,False
+expanded_second_pass,arc_apex,1,Sojourner Truth Motor Fleet,False
+expanded_second_pass,arc_apex,1,Student Nonviolent Coordinating Committee,True
+expanded_second_pass,arc_apex,1,WATS Reports,False
+expanded_second_pass,arc_apex,1,lunch counter sit-ins,False
+expanded_second_pass,arc_apex,2,A. Philip Randolph,True
+expanded_second_pass,arc_apex,2,Bayard Rustin,True
+expanded_second_pass,arc_apex,2,Bristol Bus Boycott,False
+expanded_second_pass,arc_apex,2,Civil Rights Movement,False
+expanded_second_pass,arc_apex,2,Diane Nash,True
+expanded_second_pass,arc_apex,2,Freedom Budget for All Americans,False
+expanded_second_pass,arc_apex,2,Freedom Singers,False
+expanded_second_pass,arc_apex,2,Harry Belafonte,False
+expanded_second_pass,arc_apex,2,Jeanne Theoharis,False
+expanded_second_pass,arc_apex,2,John Lewis,True
+expanded_second_pass,arc_apex,2,Julian Bond,False
+expanded_second_pass,arc_apex,2,March,False
+expanded_second_pass,arc_apex,2,March on Washington Movement,False
+expanded_second_pass,arc_apex,2,March on Washington for Jobs and Freedom,True
+expanded_second_pass,arc_apex,2,Mary King,False
+expanded_second_pass,arc_apex,2,Mississippi Freedom Schools,False
+expanded_second_pass,arc_apex,2,Montgomery,False
+expanded_second_pass,arc_apex,2,Montgomery Bus Boycott,True
+expanded_second_pass,arc_apex,2,Montgomery Improvement Association,False
+expanded_second_pass,arc_apex,2,"Montgomery, Alabama",False
+expanded_second_pass,arc_apex,2,New York City school strikes,False
+expanded_second_pass,arc_apex,2,Rosa Parks,True
+expanded_second_pass,arc_apex,2,Seattle,False
+expanded_second_pass,arc_apex,2,Selma,False
+expanded_second_pass,arc_apex,2,Septima Clark,False
+expanded_second_pass,arc_apex,2,Solidarity movement,False
+expanded_second_pass,arc_apex,2,United Federation of Teachers,False
+expanded_second_pass,arc_apex,2,sit-in movement,False
+expanded_second_pass,arc_apex,3,Beyond Vietnam,False
+expanded_second_pass,arc_apex,3,Black Panther Party,False
+expanded_second_pass,arc_apex,3,Black Power,False
+expanded_second_pass,arc_apex,3,Black Power Movement,False
+expanded_second_pass,arc_apex,3,Charles Billups,False
+expanded_second_pass,arc_apex,3,Chicago,False
+expanded_second_pass,arc_apex,3,I Have a Dream speech,False
+expanded_second_pass,arc_apex,3,Intifadah Movement,False
+expanded_second_pass,arc_apex,3,James Groppi,False
+expanded_second_pass,arc_apex,3,James Lawson,True
+expanded_second_pass,arc_apex,3,Mahatma Gandhi,False
+expanded_second_pass,arc_apex,3,Malcolm X,True
+expanded_second_pass,arc_apex,3,Martin Luther King Jr.,True
+expanded_second_pass,arc_apex,3,Newcastle upon Tyne,False
+expanded_second_pass,arc_apex,3,Poor People's Campaign,False
+expanded_second_pass,arc_apex,3,Shen Tong,False
+expanded_second_pass,arc_apex,3,Stokely Carmichael,True
+expanded_second_pass,arc_apex,3,University of Oxford,False
+expanded_second_pass,arc_apex,3,Watts,False
+expanded_second_pass,arc_apex,3,Whitney Young,False
+expanded_second_pass,arc_apex,3,open housing movement,False
+expanded_second_pass,arc_apex,4,Brown v. Board of Education,False
+expanded_second_pass,arc_apex,4,Byron De La Beckwith,False
+expanded_second_pass,arc_apex,4,Federal Bureau of Investigation,False
+expanded_second_pass,arc_apex,4,Gibson v. Florida Legislative Investigation Committee,False
+expanded_second_pass,arc_apex,4,Jim Crow regime,False
+expanded_second_pass,arc_apex,4,Medgar Evers,True
+expanded_second_pass,arc_apex,4,Mississippi Goddamn,False
+expanded_second_pass,arc_apex,4,Modjeska Monteith Simkins,False
+expanded_second_pass,arc_apex,4,NAACP Richland County Citizens Committee,False
+expanded_second_pass,arc_apex,4,National Association for the Advancement of Colored People,True
+expanded_second_pass,arc_apex,4,Patricia Stephens Due,False
+expanded_second_pass,arc_apex,4,Rachel,False
+expanded_second_pass,arc_apex,4,Rev. I. De Quincy Newman,False
+expanded_second_pass,arc_apex,4,Richland County Citizens Committee,False
+expanded_second_pass,arc_apex,4,Roy Wilkins,False
+expanded_second_pass,arc_apex,5,"Albany, Georgia",False
+expanded_second_pass,arc_apex,5,Andrew Young,True
+expanded_second_pass,arc_apex,5,Carl Rachlin,False
+expanded_second_pass,arc_apex,5,Chicago campaign,False
+expanded_second_pass,arc_apex,5,Florida,False
+expanded_second_pass,arc_apex,5,Howard Zinn,False
+expanded_second_pass,arc_apex,5,Israel S. (Sy) Dresner,False
+expanded_second_pass,arc_apex,5,Miami,False
+expanded_second_pass,arc_apex,5,Monson Motor Lodge,False
+expanded_second_pass,arc_apex,5,Southern Christian Leadership Conference,True
+expanded_second_pass,arc_apex,5,St Augustine,False
+expanded_second_pass,arc_apex,5,Tobias Simon,False
+expanded_second_pass,arc_apex,5,night marches,False
+expanded_second_pass,arc_apex,6,Alabama,False
+expanded_second_pass,arc_apex,6,Birmingham,False
+expanded_second_pass,arc_apex,6,Civil Rights Act 1964,False
+expanded_second_pass,arc_apex,6,Lyndon Johnson,False
+expanded_second_pass,arc_apex,6,Reconstruction,False
+expanded_second_pass,arc_lite,1,Alabama,False
+expanded_second_pass,arc_lite,1,Atlanta,False
+expanded_second_pass,arc_lite,1,Bob Moses,True
+expanded_second_pass,arc_lite,1,Charles McDew,False
+expanded_second_pass,arc_lite,1,Dorie Ladner,False
+expanded_second_pass,arc_lite,1,Ella Baker,True
+expanded_second_pass,arc_lite,1,Fannie Lou Hamer,True
+expanded_second_pass,arc_lite,1,Freedom Schools,False
+expanded_second_pass,arc_lite,1,Freedom Singers,False
+expanded_second_pass,arc_lite,1,Freedom Summer,False
+expanded_second_pass,arc_lite,1,Freedom houses,False
+expanded_second_pass,arc_lite,1,Harry Belafonte,False
+expanded_second_pass,arc_lite,1,Howard Zinn,False
+expanded_second_pass,arc_lite,1,James Forman,True
+expanded_second_pass,arc_lite,1,Jean Wiley,False
+expanded_second_pass,arc_lite,1,Jeanne Theoharis,False
+expanded_second_pass,arc_lite,1,Julian Bond,False
+expanded_second_pass,arc_lite,1,Ku Klux Klan,False
+expanded_second_pass,arc_lite,1,Mary King,False
+expanded_second_pass,arc_lite,1,Mennonite House,False
+expanded_second_pass,arc_lite,1,Mississippi Freedom Schools,False
+expanded_second_pass,arc_lite,1,Ruby Doris Smith Robinson,False
+expanded_second_pass,arc_lite,1,Sojourner Truth,False
+expanded_second_pass,arc_lite,1,Sojourner Truth Garage,False
+expanded_second_pass,arc_lite,1,Sojourner Truth Motor Fleet,False
+expanded_second_pass,arc_lite,1,Student Nonviolent Coordinating Committee,True
+expanded_second_pass,arc_lite,1,lunch counter sit-ins,False
+expanded_second_pass,arc_lite,1,sit-in movement,False
+expanded_second_pass,arc_lite,2,A. Philip Randolph,True
+expanded_second_pass,arc_lite,2,Birmingham,False
+expanded_second_pass,arc_lite,2,Charles Billups,False
+expanded_second_pass,arc_lite,2,Chicago,False
+expanded_second_pass,arc_lite,2,Civil Rights Act 1964,False
+expanded_second_pass,arc_lite,2,Civil Rights Movement,False
+expanded_second_pass,arc_lite,2,Federal Bureau of Investigation,False
+expanded_second_pass,arc_lite,2,Intifadah Movement,False
+expanded_second_pass,arc_lite,2,Israel S. (Sy) Dresner,False
+expanded_second_pass,arc_lite,2,James Lawson,True
+expanded_second_pass,arc_lite,2,Lyndon Johnson,False
+expanded_second_pass,arc_lite,2,Mahatma Gandhi,False
+expanded_second_pass,arc_lite,2,March on Washington Movement,False
+expanded_second_pass,arc_lite,2,Martin Luther King Jr.,True
+expanded_second_pass,arc_lite,2,Monson Motor Lodge,False
+expanded_second_pass,arc_lite,2,Newcastle upon Tyne,False
+expanded_second_pass,arc_lite,2,Rosa Parks,True
+expanded_second_pass,arc_lite,2,Septima Clark,False
+expanded_second_pass,arc_lite,2,Shen Tong,False
+expanded_second_pass,arc_lite,2,St Augustine,False
+expanded_second_pass,arc_lite,2,Watts,False
+expanded_second_pass,arc_lite,2,open housing movement,False
+expanded_second_pass,arc_lite,3,Brown v. Board of Education,False
+expanded_second_pass,arc_lite,3,Byron De La Beckwith,False
+expanded_second_pass,arc_lite,3,Florida,False
+expanded_second_pass,arc_lite,3,Gibson v. Florida Legislative Investigation Committee,False
+expanded_second_pass,arc_lite,3,Medgar Evers,True
+expanded_second_pass,arc_lite,3,Mississippi Goddamn,False
+expanded_second_pass,arc_lite,3,Modjeska Monteith Simkins,False
+expanded_second_pass,arc_lite,3,NAACP Richland County Citizens Committee,False
+expanded_second_pass,arc_lite,3,National Association for the Advancement of Colored People,True
+expanded_second_pass,arc_lite,3,Rachel,False
+expanded_second_pass,arc_lite,3,Rev. I. De Quincy Newman,False
+expanded_second_pass,arc_lite,3,Richland County Citizens Committee,False
+expanded_second_pass,arc_lite,3,Roy Wilkins,False
+expanded_second_pass,arc_lite,4,Alvin J. Bronstein,False
+expanded_second_pass,arc_lite,4,Brooklyn,False
+expanded_second_pass,arc_lite,4,Carl Rachlin,False
+expanded_second_pass,arc_lite,4,Congress of Racial Equality,True
+expanded_second_pass,arc_lite,4,Council of Federated Organizations,False
+expanded_second_pass,arc_lite,4,Dave Dennis,False
+expanded_second_pass,arc_lite,4,Freedom Rides,True
+expanded_second_pass,arc_lite,4,James Chaney,False
+expanded_second_pass,arc_lite,4,Miami,False
+expanded_second_pass,arc_lite,4,Mississippi Freedom Summer,False
+expanded_second_pass,arc_lite,4,Schwerner,False
+expanded_second_pass,arc_lite,4,Tobias Simon,False
+expanded_second_pass,arc_lite,5,Bayard Rustin,True
+expanded_second_pass,arc_lite,5,Black Panther Party,False
+expanded_second_pass,arc_lite,5,Black Power,False
+expanded_second_pass,arc_lite,5,Black Power Movement,False
+expanded_second_pass,arc_lite,5,Freedom Budget for All Americans,False
+expanded_second_pass,arc_lite,5,James Groppi,False
+expanded_second_pass,arc_lite,5,Malcolm X,True
+expanded_second_pass,arc_lite,5,New York City school strikes,False
+expanded_second_pass,arc_lite,5,Solidarity movement,False
+expanded_second_pass,arc_lite,5,Stokely Carmichael,True
+expanded_second_pass,arc_lite,5,United Federation of Teachers,False
+expanded_second_pass,arc_lite,6,Bristol Bus Boycott,False
+expanded_second_pass,arc_lite,6,Jim Crow regime,False
+expanded_second_pass,arc_lite,6,John Lewis,True
+expanded_second_pass,arc_lite,6,March on Washington for Jobs and Freedom,True
+expanded_second_pass,arc_lite,6,Montgomery Bus Boycott,True
+expanded_second_pass,arc_lite,6,Montgomery Improvement Association,False
+expanded_second_pass,arc_lite,6,"Montgomery, Alabama",False
+expanded_second_pass,arc_lite,6,Selma,False
+expanded_second_pass,arc_lite,7,"Albany, Georgia",False
+expanded_second_pass,arc_lite,7,Andrew Young,True
+expanded_second_pass,arc_lite,7,Chicago campaign,False
+expanded_second_pass,arc_lite,7,Patricia Stephens Due,False
+expanded_second_pass,arc_lite,7,Southern Christian Leadership Conference,True
+expanded_second_pass,arc_lite,7,night marches,False
+expanded_second_pass,qwen_plus,1,Alabama,False
+expanded_second_pass,qwen_plus,1,"Albany, Georgia",False
+expanded_second_pass,qwen_plus,1,Atlanta,False
+expanded_second_pass,qwen_plus,1,Cleveland Sellers,False
+expanded_second_pass,qwen_plus,1,Council of Federated Organizations,False
+expanded_second_pass,qwen_plus,1,Freedom Singers,False
+expanded_second_pass,qwen_plus,1,Freedom Summer,False
+expanded_second_pass,qwen_plus,1,Freedom houses,False
+expanded_second_pass,qwen_plus,1,Harry Belafonte,False
+expanded_second_pass,qwen_plus,1,Jeanne Theoharis,False
+expanded_second_pass,qwen_plus,1,John Lewis,True
+expanded_second_pass,qwen_plus,1,Julian Bond,False
+expanded_second_pass,qwen_plus,1,Ku Klux Klan,False
+expanded_second_pass,qwen_plus,1,Mary King,False
+expanded_second_pass,qwen_plus,1,Mississippi Freedom Summer,False
+expanded_second_pass,qwen_plus,1,Ruby Doris Smith Robinson,False
+expanded_second_pass,qwen_plus,1,Sojourner Truth,False
+expanded_second_pass,qwen_plus,1,Sojourner Truth Motor Fleet,False
+expanded_second_pass,qwen_plus,1,Student Nonviolent Coordinating Committee,True
+expanded_second_pass,qwen_plus,1,WATS Reports,False
+expanded_second_pass,qwen_plus,1,lunch counter sit-ins,False
+expanded_second_pass,qwen_plus,1,sit-in movement,False
+expanded_second_pass,qwen_plus,2,Beyond Vietnam,False
+expanded_second_pass,qwen_plus,2,Birmingham,False
+expanded_second_pass,qwen_plus,2,Black Panther Party,False
+expanded_second_pass,qwen_plus,2,Black Power,False
+expanded_second_pass,qwen_plus,2,Bristol Bus Boycott,False
+expanded_second_pass,qwen_plus,2,Charles Billups,False
+expanded_second_pass,qwen_plus,2,Chicago,False
+expanded_second_pass,qwen_plus,2,Federal Bureau of Investigation,False
+expanded_second_pass,qwen_plus,2,Intifadah Movement,False
+expanded_second_pass,qwen_plus,2,Malcolm X,True
+expanded_second_pass,qwen_plus,2,Martin Luther King Jr.,True
+expanded_second_pass,qwen_plus,2,Monson Motor Lodge,False
+expanded_second_pass,qwen_plus,2,Montgomery,False
+expanded_second_pass,qwen_plus,2,Newcastle upon Tyne,False
+expanded_second_pass,qwen_plus,2,Poor People's Campaign,False
+expanded_second_pass,qwen_plus,2,Reconstruction,False
+expanded_second_pass,qwen_plus,2,Watts,False
+expanded_second_pass,qwen_plus,2,Whitney Young,False
+expanded_second_pass,qwen_plus,2,open housing movement,False
+expanded_second_pass,qwen_plus,3,Alvin J. Bronstein,False
+expanded_second_pass,qwen_plus,3,Andrew Young,True
+expanded_second_pass,qwen_plus,3,Carl Rachlin,False
+expanded_second_pass,qwen_plus,3,Congress of Racial Equality,True
+expanded_second_pass,qwen_plus,3,Dave Dennis,False
+expanded_second_pass,qwen_plus,3,Freedom Rides,True
+expanded_second_pass,qwen_plus,3,Israel S. (Sy) Dresner,False
+expanded_second_pass,qwen_plus,3,James Chaney,False
+expanded_second_pass,qwen_plus,3,Len Holt,False
+expanded_second_pass,qwen_plus,3,Patricia Stephens Due,False
+expanded_second_pass,qwen_plus,3,Schwerner,False
+expanded_second_pass,qwen_plus,3,Southern Christian Leadership Conference,True
+expanded_second_pass,qwen_plus,3,St Augustine,False
+expanded_second_pass,qwen_plus,3,Tobias Simon,False
+expanded_second_pass,qwen_plus,3,night marches,False
+expanded_second_pass,qwen_plus,4,A. Philip Randolph,True
+expanded_second_pass,qwen_plus,4,Brown v. Board of Education,False
+expanded_second_pass,qwen_plus,4,Florida,False
+expanded_second_pass,qwen_plus,4,Jim Crow regime,False
+expanded_second_pass,qwen_plus,4,March on Washington Movement,False
+expanded_second_pass,qwen_plus,4,Medgar Evers,True
+expanded_second_pass,qwen_plus,4,Mississippi Goddamn,False
+expanded_second_pass,qwen_plus,4,Modjeska Monteith Simkins,False
+expanded_second_pass,qwen_plus,4,NAACP Richland County Citizens Committee,False
+expanded_second_pass,qwen_plus,4,National Association for the Advancement of Colored People,True
+expanded_second_pass,qwen_plus,4,Rachel,False
+expanded_second_pass,qwen_plus,4,Rev. I. De Quincy Newman,False
+expanded_second_pass,qwen_plus,4,Richland County Citizens Committee,False
+expanded_second_pass,qwen_plus,4,Roy Wilkins,False
+expanded_second_pass,qwen_plus,5,Bayard Rustin,True
+expanded_second_pass,qwen_plus,5,Black Power Movement,False
+expanded_second_pass,qwen_plus,5,Civil Rights Act 1964,False
+expanded_second_pass,qwen_plus,5,Civil Rights Movement,False
+expanded_second_pass,qwen_plus,5,Freedom Budget for All Americans,False
+expanded_second_pass,qwen_plus,5,James Lawson,True
+expanded_second_pass,qwen_plus,5,Lyndon Johnson,False
+expanded_second_pass,qwen_plus,5,Mahatma Gandhi,False
+expanded_second_pass,qwen_plus,5,March on Washington for Jobs and Freedom,True
+expanded_second_pass,qwen_plus,5,New York City school strikes,False
+expanded_second_pass,qwen_plus,5,Solidarity movement,False
+expanded_second_pass,qwen_plus,5,United Federation of Teachers,False
+expanded_second_pass,qwen_plus,6,Diane Nash,True
+expanded_second_pass,qwen_plus,6,Ella Baker,True
+expanded_second_pass,qwen_plus,6,Fannie Lou Hamer,True
+expanded_second_pass,qwen_plus,6,Mennonite House,False
+expanded_second_pass,qwen_plus,6,Montgomery Bus Boycott,True
+expanded_second_pass,qwen_plus,6,Montgomery Improvement Association,False
+expanded_second_pass,qwen_plus,6,"Montgomery, Alabama",False
+expanded_second_pass,qwen_plus,6,Rosa Parks,True
+expanded_second_pass,qwen_plus,6,Septima Clark,False

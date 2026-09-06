@@ -1,0 +1,7 @@
+model,stage,nodes,edges
+arc_apex,first_pass,161,245
+arc_apex,combined_after_second_pass,115,356
+arc_lite,first_pass,146,224
+arc_lite,combined_after_second_pass,100,235
+qwen_plus,first_pass,82,152
+qwen_plus,combined_after_second_pass,91,251

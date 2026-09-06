@@ -1,0 +1,7 @@
+network_type,model,communities,modularity
+controlled_seed_network,arc_apex,5,0.4007134363852557
+controlled_seed_network,arc_lite,5,0.40441176470588236
+controlled_seed_network,qwen_plus,3,0.31444636678200694
+expanded_second_pass,arc_apex,6,0.4164567475933062
+expanded_second_pass,arc_lite,7,0.4904792892711634
+expanded_second_pass,qwen_plus,6,0.47495153555759617

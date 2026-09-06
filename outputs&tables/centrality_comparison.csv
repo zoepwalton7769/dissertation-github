@@ -1,0 +1,368 @@
+network_type,model,node,entity_type,is_seed,in_degree,out_degree,total_degree,degree_centrality,betweenness,pagerank,total_degree_rank,betweenness_rank,pagerank_rank
+controlled_seed_network,arc_apex,A. Philip Randolph,activist,True,0,2,2,0.1,0.0,0.011835060693244786,12.0,13.0,12.0
+controlled_seed_network,arc_apex,March on Washington for Jobs and Freedom,event,True,4,1,5,0.25,0.14229323308270675,0.04878393184458545,3.0,4.0,8.0
+controlled_seed_network,arc_apex,Martin Luther King Jr.,activist,True,5,5,10,0.45,0.5085839598997494,0.09061021144966602,1.0,1.0,5.0
+controlled_seed_network,arc_apex,Andrew Young,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,Southern Christian Leadership Conference,organisation,True,3,1,4,0.2,0.17820802005012534,0.06900265938752434,4.0,3.0,6.0
+controlled_seed_network,arc_apex,Bayard Rustin,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,Bob Moses,activist,True,0,3,3,0.15000000000000002,0.046629072681704256,0.011835060693244786,7.0,11.0,12.0
+controlled_seed_network,arc_apex,John Lewis,activist,True,1,2,3,0.15000000000000002,0.04943609022556392,0.01518834735535641,7.0,10.0,11.0
+controlled_seed_network,arc_apex,Student Nonviolent Coordinating Committee,organisation,True,7,2,9,0.35000000000000003,0.3051127819548871,0.209898974921761,2.0,2.0,1.0
+controlled_seed_network,arc_apex,Diane Nash,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,Rosa Parks,activist,True,3,1,4,0.2,0.13172932330827067,0.055553202856149106,4.0,5.0,7.0
+controlled_seed_network,arc_apex,Ella Baker,activist,True,1,3,4,0.15000000000000002,0.11036340852130327,0.10104401592889924,4.0,6.0,3.0
+controlled_seed_network,arc_apex,Fannie Lou Hamer,activist,True,0,2,2,0.1,0.029824561403508767,0.011835060693244786,12.0,12.0,12.0
+controlled_seed_network,arc_apex,Freedom Rides,event,True,1,1,2,0.05,0.0,0.10104401592889924,12.0,13.0,3.0
+controlled_seed_network,arc_apex,James Forman,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,James Lawson,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,Malcolm X,activist,True,2,1,3,0.1,0.09999999999999999,0.037298937456119056,7.0,7.0,9.0
+controlled_seed_network,arc_apex,Montgomery Bus Boycott,event,True,3,0,3,0.15000000000000002,0.08203007518796993,0.11592615848247315,7.0,9.0,2.0
+controlled_seed_network,arc_apex,National Association for the Advancement of Colored People,organisation,True,2,1,3,0.15000000000000002,0.09999999999999999,0.037298937456119056,7.0,7.0,9.0
+controlled_seed_network,arc_apex,Medgar Evers,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_apex,Stokely Carmichael,activist,True,0,1,1,0.05,0.0,0.011835060693244786,15.0,13.0,12.0
+controlled_seed_network,arc_lite,A. Philip Randolph,activist,True,0,3,3,0.15000000000000002,0.02631578947368421,0.009817511412922544,8.0,10.0,14.0
+controlled_seed_network,arc_lite,Bayard Rustin,activist,True,1,1,2,0.1,0.0,0.012599139657549243,14.0,13.0,12.0
+controlled_seed_network,arc_lite,March on Washington for Jobs and Freedom,event,True,4,2,6,0.25,0.11131578947368422,0.03531604086002178,4.0,5.0,8.0
+controlled_seed_network,arc_lite,Martin Luther King Jr.,activist,True,6,7,13,0.55,0.5262280701754387,0.05478939539552152,1.0,1.0,4.0
+controlled_seed_network,arc_lite,Andrew Young,activist,True,0,1,1,0.05,0.0,0.009817511412922544,16.0,13.0,14.0
+controlled_seed_network,arc_lite,Southern Christian Leadership Conference,organisation,True,3,1,4,0.2,0.16359649122807016,0.04590847944288348,7.0,3.0,5.0
+controlled_seed_network,arc_lite,Bob Moses,activist,True,0,3,3,0.15000000000000002,0.04008771929824562,0.009817511412922544,8.0,8.0,14.0
+controlled_seed_network,arc_lite,John Lewis,activist,True,1,2,3,0.15000000000000002,0.039912280701754385,0.012599139657549243,8.0,9.0,12.0
+controlled_seed_network,arc_lite,Student Nonviolent Coordinating Committee,organisation,True,6,2,8,0.35000000000000003,0.2556140350877193,0.07715695356593932,2.0,2.0,3.0
+controlled_seed_network,arc_lite,Diane Nash,activist,True,0,1,1,0.05,0.0,0.009817511412922544,16.0,13.0,14.0
+controlled_seed_network,arc_lite,Montgomery Bus Boycott,event,True,6,1,7,0.30000000000000004,0.13964912280701752,0.2728746343216211,3.0,4.0,1.0
+controlled_seed_network,arc_lite,Ella Baker,activist,True,1,4,5,0.2,0.049736842105263156,0.042609216991684046,5.0,7.0,6.0
+controlled_seed_network,arc_lite,Rosa Parks,activist,True,4,1,5,0.2,0.017543859649122806,0.26024131204829604,5.0,12.0,2.0
+controlled_seed_network,arc_lite,Fannie Lou Hamer,activist,True,0,3,3,0.15000000000000002,0.024736842105263158,0.009817511412922544,8.0,11.0,14.0
+controlled_seed_network,arc_lite,James Forman,activist,True,0,1,1,0.05,0.0,0.009817511412922544,16.0,13.0,14.0
+controlled_seed_network,arc_lite,James Lawson,activist,True,0,1,1,0.05,0.0,0.009817511412922544,16.0,13.0,14.0
+controlled_seed_network,arc_lite,Malcolm X,activist,True,1,2,3,0.1,0.0,0.016470509482875043,8.0,13.0,11.0
+controlled_seed_network,arc_lite,Stokely Carmichael,activist,True,2,0,2,0.1,0.0,0.02347047606423932,14.0,13.0,10.0
+controlled_seed_network,arc_lite,National Association for the Advancement of Colored People,organisation,True,2,1,3,0.15000000000000002,0.09999999999999999,0.02481539421675514,8.0,6.0,9.0
+controlled_seed_network,arc_lite,Medgar Evers,activist,True,0,1,1,0.05,0.0,0.009817511412922544,16.0,13.0,14.0
+controlled_seed_network,arc_lite,Freedom Rides,event,True,1,0,1,0.05,0.0,0.042609216991684046,16.0,13.0,6.0
+controlled_seed_network,qwen_plus,A. Philip Randolph,activist,True,0,3,3,0.16666666666666666,0.007996632996632998,0.01169758966117998,10.0,12.0,13.0
+controlled_seed_network,qwen_plus,March on Washington for Jobs and Freedom,event,True,3,1,4,0.16666666666666666,0.0021786492374727667,0.040175909727100875,7.0,13.0,9.0
+controlled_seed_network,qwen_plus,Martin Luther King Jr.,activist,True,8,6,14,0.5555555555555556,0.3735541691424045,0.16008480763390318,1.0,1.0,2.0
+controlled_seed_network,qwen_plus,National Association for the Advancement of Colored People,organisation,True,5,1,6,0.3333333333333333,0.17137551990493166,0.06493996462588206,4.0,4.0,6.0
+controlled_seed_network,qwen_plus,Bayard Rustin,activist,True,0,4,4,0.2222222222222222,0.018122400475341652,0.01169758966117998,7.0,8.0,13.0
+controlled_seed_network,qwen_plus,Southern Christian Leadership Conference,organisation,True,3,2,5,0.2222222222222222,0.04454347395523866,0.06704598579570827,6.0,6.0,5.0
+controlled_seed_network,qwen_plus,Congress of Racial Equality,organisation,True,0,1,1,0.05555555555555555,0.0,0.01169758966117998,16.0,15.0,13.0
+controlled_seed_network,qwen_plus,Student Nonviolent Coordinating Committee,organisation,True,8,3,11,0.5,0.3681521093285799,0.17868740907369265,2.0,2.0,1.0
+controlled_seed_network,qwen_plus,Diane Nash,activist,True,0,1,1,0.05555555555555555,0.0,0.01169758966117998,16.0,15.0,13.0
+controlled_seed_network,qwen_plus,Montgomery Bus Boycott,event,True,5,3,8,0.38888888888888884,0.20587740146563674,0.10653180352397996,3.0,3.0,3.0
+controlled_seed_network,qwen_plus,Ella Baker,activist,True,1,5,6,0.2777777777777778,0.07080114874232521,0.06232523865943501,4.0,5.0,7.0
+controlled_seed_network,qwen_plus,Rosa Parks,activist,True,2,1,3,0.16666666666666666,0.0021786492374727667,0.039952025343809414,10.0,13.0,10.0
+controlled_seed_network,qwen_plus,Fannie Lou Hamer,activist,True,1,3,4,0.16666666666666666,0.010021786492374729,0.06232523865943501,7.0,11.0,7.0
+controlled_seed_network,qwen_plus,James Forman,activist,True,0,1,1,0.05555555555555555,0.0,0.01169758966117998,16.0,15.0,13.0
+controlled_seed_network,qwen_plus,James Lawson,activist,True,0,1,1,0.05555555555555555,0.0,0.01169758966117998,16.0,15.0,13.0
+controlled_seed_network,qwen_plus,John Lewis,activist,True,0,2,2,0.1111111111111111,0.020152505446623094,0.01169758966117998,12.0,7.0,13.0
+controlled_seed_network,qwen_plus,Medgar Evers,activist,True,1,1,2,0.1111111111111111,0.013765102000396118,0.016669016249812468,12.0,10.0,12.0
+controlled_seed_network,qwen_plus,Malcolm X,activist,True,1,1,2,0.05555555555555555,0.0,0.03437591204036297,12.0,15.0,11.0
+controlled_seed_network,qwen_plus,Freedom Rides,event,True,2,0,2,0.1111111111111111,0.018077837195484253,0.085003561038618,12.0,9.0,4.0
+expanded_second_pass,arc_apex,A. Philip Randolph,activist,True,0,4,4,0.03508771929824561,0.0011488899239248565,0.0023978201906932096,37.0,48.0,90.0
+expanded_second_pass,arc_apex,Civil Rights Movement,movement,False,25,37,62,0.43859649122807015,0.43541345677169063,0.05880706476141631,1.0,1.0,2.0
+expanded_second_pass,arc_apex,March on Washington Movement,movement,False,2,0,2,0.017543859649122806,0.0,0.004258340623823971,72.0,63.0,66.0
+expanded_second_pass,arc_apex,March on Washington for Jobs and Freedom,event,True,6,1,7,0.06140350877192982,0.0067271513009752445,0.008042910607856214,15.0,24.0,32.0
+expanded_second_pass,arc_apex,Martin Luther King Jr.,activist,True,22,21,43,0.3421052631578947,0.24718691461176928,0.045976716965122136,2.0,3.0,3.0
+expanded_second_pass,arc_apex,Alabama,place,False,2,4,6,0.05263157894736842,0.004758824297715771,0.01869350429437965,21.0,31.0,13.0
+expanded_second_pass,arc_apex,Black Power,movement,False,3,7,10,0.08771929824561403,0.046719962525539414,0.007134786393117681,9.0,8.0,33.0
+expanded_second_pass,arc_apex,Brown v. Board of Education,law,False,4,2,6,0.043859649122807015,0.002325072760564144,0.024178398372363533,21.0,37.0,9.0
+expanded_second_pass,arc_apex,Reconstruction,event,False,6,0,6,0.05263157894736842,0.004110982492924463,0.027547414171731774,21.0,34.0,7.0
+expanded_second_pass,arc_apex,Student Nonviolent Coordinating Committee,organisation,True,32,11,43,0.3157894736842105,0.2761918024126852,0.0813264965528034,2.0,2.0,1.0
+expanded_second_pass,arc_apex,"Albany, Georgia",place,False,0,3,3,0.02631578947368421,0.0,0.0023978201906932096,51.0,63.0,90.0
+expanded_second_pass,arc_apex,Southern Christian Leadership Conference,organisation,True,10,8,18,0.14035087719298245,0.05963486857344605,0.02392366508850286,4.0,5.0,10.0
+expanded_second_pass,arc_apex,Alvin J. Bronstein,person,False,0,7,7,0.06140350877192982,0.003531169045977671,0.0023978201906932096,15.0,35.0,90.0
+expanded_second_pass,arc_apex,Congress of Racial Equality,organisation,True,9,6,15,0.11403508771929824,0.05744440465773788,0.016185239098385443,6.0,6.0,17.0
+expanded_second_pass,arc_apex,Freedom Rides,event,True,7,3,10,0.07894736842105263,0.04420734050866248,0.01509515952653064,9.0,9.0,19.0
+expanded_second_pass,arc_apex,Ku Klux Klan,organisation,False,4,5,9,0.07017543859649122,0.022595724781436538,0.0101311409877707,13.0,15.0,23.0
+expanded_second_pass,arc_apex,Simpson,person,False,1,4,5,0.043859649122807015,0.0005242190641105679,0.0026889994942176955,29.0,52.0,85.0
+expanded_second_pass,arc_apex,St Augustine,place,False,12,2,14,0.11403508771929824,0.029877472490071236,0.03271600174910347,7.0,12.0,6.0
+expanded_second_pass,arc_apex,Tobias Simon,person,False,10,3,13,0.09649122807017543,0.02671003155310236,0.04234656723325081,8.0,13.0,4.0
+expanded_second_pass,arc_apex,Andrew Young,activist,True,0,2,2,0.017543859649122806,0.0,0.0023978201906932096,72.0,63.0,90.0
+expanded_second_pass,arc_apex,Atlanta,place,False,2,3,5,0.043859649122807015,0.015581680433799674,0.012075052713796051,29.0,17.0,21.0
+expanded_second_pass,arc_apex,John Lewis,activist,True,1,5,6,0.05263157894736842,0.005183329065490222,0.005819320096695352,21.0,27.0,41.0
+expanded_second_pass,arc_apex,Ruby Doris Smith Robinson,person,False,2,5,7,0.06140350877192982,0.005056436990531076,0.006838447659031052,15.0,29.0,35.0
+expanded_second_pass,arc_apex,Bayard Rustin,activist,True,0,8,8,0.07017543859649122,0.0529280428209166,0.0023978201906932096,14.0,7.0,90.0
+expanded_second_pass,arc_apex,Freedom Budget for All Americans,campaign,False,1,0,1,0.008771929824561403,0.0,0.0026526020812771348,90.0,63.0,86.0
+expanded_second_pass,arc_apex,Mahatma Gandhi,person,False,5,0,5,0.043859649122807015,0.005093670755058738,0.008476942706396016,29.0,28.0,29.0
+expanded_second_pass,arc_apex,New York City school strikes,event,False,1,0,1,0.008771929824561403,0.0,0.0026526020812771348,90.0,63.0,86.0
+expanded_second_pass,arc_apex,Solidarity movement,movement,False,1,1,2,0.017543859649122806,0.0,0.0026526020812771348,72.0,63.0,86.0
+expanded_second_pass,arc_apex,United Federation of Teachers,organisation,False,1,0,1,0.008771929824561403,0.0,0.0026526020812771348,90.0,63.0,86.0
+expanded_second_pass,arc_apex,Beyond Vietnam,publication,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Birmingham,place,False,1,4,5,0.043859649122807015,0.0012471567315535635,0.004939518406620702,29.0,45.0,51.0
+expanded_second_pass,arc_apex,Charles Billups,person,False,1,5,6,0.05263157894736842,0.005736826693565233,0.0034472976756992424,21.0,25.0,77.0
+expanded_second_pass,arc_apex,Civil Rights Act 1964,law,False,1,3,4,0.03508771929824561,0.0003976935276422934,0.0034472976756992424,37.0,56.0,77.0
+expanded_second_pass,arc_apex,Black Panther Party,organisation,False,0,4,4,0.03508771929824561,0.0015854029011923743,0.0023978201906932096,37.0,42.0,90.0
+expanded_second_pass,arc_apex,Black Power Movement,movement,False,2,2,4,0.03508771929824561,0.0034067056771256376,0.005298191572563665,37.0,36.0,49.0
+expanded_second_pass,arc_apex,Chicago,place,False,3,1,4,0.03508771929824561,0.0004777089080768633,0.008292942555372365,37.0,54.0,31.0
+expanded_second_pass,arc_apex,James Groppi,person,False,1,2,3,0.02631578947368421,0.0019155947624067149,0.003264179744755063,51.0,39.0,79.0
+expanded_second_pass,arc_apex,Modjeska Monteith Simkins,person,False,3,7,10,0.07894736842105263,0.04327242230926687,0.006994511611626507,9.0,10.0,34.0
+expanded_second_pass,arc_apex,Patricia Stephens Due,person,False,2,4,6,0.05263157894736842,0.00809748458796311,0.005306355374743297,21.0,22.0,48.0
+expanded_second_pass,arc_apex,Stokely Carmichael,activist,True,2,1,3,0.02631578947368421,0.00029627904569683796,0.0055160194579996534,51.0,57.0,45.0
+expanded_second_pass,arc_apex,Bob Moses,activist,True,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Bristol Bus Boycott,event,False,0,3,3,0.02631578947368421,0.0,0.0023978201906932096,51.0,63.0,90.0
+expanded_second_pass,arc_apex,Montgomery Bus Boycott,event,True,6,1,7,0.06140350877192982,0.010911004157394474,0.019476902717932794,15.0,20.0,11.0
+expanded_second_pass,arc_apex,Brooklyn,place,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Jim Crow regime,law,False,4,1,5,0.043859649122807015,0.0008568619188088216,0.016916047977043797,29.0,50.0,16.0
+expanded_second_pass,arc_apex,Byron De La Beckwith,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Medgar Evers,activist,True,2,2,4,0.03508771929824561,0.03493246390312063,0.004879117823600157,37.0,11.0,53.0
+expanded_second_pass,arc_apex,Carl Rachlin,person,False,0,3,3,0.02631578947368421,0.0004916420845624385,0.0023978201906932096,51.0,53.0,90.0
+expanded_second_pass,arc_apex,Israel S. (Sy) Dresner,person,False,1,3,4,0.03508771929824561,0.004960062621916373,0.0030772385655836766,37.0,30.0,83.0
+expanded_second_pass,arc_apex,Charles McDew,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Chicago campaign,campaign,False,2,1,3,0.017543859649122806,0.0,0.006800535169712292,51.0,63.0,36.0
+expanded_second_pass,arc_apex,Lyndon Johnson,person,False,3,3,6,0.03508771929824561,0.0007374631268436579,0.006586567528237833,21.0,51.0,38.0
+expanded_second_pass,arc_apex,Diane Nash,activist,True,1,0,1,0.008771929824561403,0.0,0.003748776842656121,90.0,63.0,70.0
+expanded_second_pass,arc_apex,Ella Baker,activist,True,3,4,7,0.043859649122807015,0.013477163092905997,0.011196016983420187,15.0,18.0,22.0
+expanded_second_pass,arc_apex,Fannie Lou Hamer,activist,True,1,2,3,0.02631578947368421,0.009180212609416148,0.003748776842656121,51.0,21.0,70.0
+expanded_second_pass,arc_apex,Florida,place,False,4,2,6,0.05263157894736842,0.005304004849882815,0.0339295631205483,21.0,26.0,5.0
+expanded_second_pass,arc_apex,Freedom Singers,organisation,False,2,2,4,0.017543859649122806,0.0,0.010033415853543469,37.0,63.0,24.0
+expanded_second_pass,arc_apex,Harry Belafonte,person,False,1,1,2,0.017543859649122806,0.0,0.003748776842656121,72.0,63.0,70.0
+expanded_second_pass,arc_apex,James Lawson,activist,True,1,2,3,0.02631578947368421,0.0,0.003748776842656121,51.0,63.0,70.0
+expanded_second_pass,arc_apex,Jeanne Theoharis,person,False,1,2,3,0.02631578947368421,0.0001293794959374838,0.003748776842656121,51.0,61.0,70.0
+expanded_second_pass,arc_apex,Julian Bond,person,False,2,3,5,0.043859649122807015,0.012629809683838566,0.005342016490384802,29.0,19.0,46.0
+expanded_second_pass,arc_apex,Malcolm X,activist,True,2,3,5,0.043859649122807015,0.02236474436792781,0.008437557399349266,29.0,16.0,30.0
+expanded_second_pass,arc_apex,March,publication,False,2,1,3,0.02631578947368421,0.0,0.004738129798122383,51.0,63.0,55.0
+expanded_second_pass,arc_apex,Mississippi Freedom Schools,organisation,False,1,1,2,0.017543859649122806,0.0,0.003748776842656121,72.0,63.0,70.0
+expanded_second_pass,arc_apex,Montgomery,place,False,2,1,3,0.02631578947368421,0.0,0.005609793605747711,51.0,63.0,43.0
+expanded_second_pass,arc_apex,National Association for the Advancement of Colored People,organisation,True,10,8,18,0.14035087719298245,0.115148956046003,0.019220103862420148,4.0,4.0,12.0
+expanded_second_pass,arc_apex,Rosa Parks,activist,True,2,1,3,0.02631578947368421,0.00019924442374372506,0.005342016490384802,51.0,59.0,46.0
+expanded_second_pass,arc_apex,Seattle,place,False,2,0,2,0.017543859649122806,0.0,0.006041781227548904,72.0,63.0,39.0
+expanded_second_pass,arc_apex,Selma,place,False,6,1,7,0.06140350877192982,0.004279380851341728,0.017936901942774183,15.0,33.0,14.0
+expanded_second_pass,arc_apex,Septima Clark,person,False,1,1,2,0.008771929824561403,0.0,0.003748776842656121,72.0,63.0,70.0
+expanded_second_pass,arc_apex,Watts,place,False,2,0,2,0.017543859649122806,0.0,0.005609793605747711,72.0,63.0,43.0
+expanded_second_pass,arc_apex,lunch counter sit-ins,campaign,False,2,2,4,0.03508771929824561,0.007831469708507436,0.006041781227548904,37.0,23.0,39.0
+expanded_second_pass,arc_apex,sit-in movement,movement,False,2,1,3,0.017543859649122806,0.0,0.010033415853543469,51.0,63.0,24.0
+expanded_second_pass,arc_apex,Cleveland Sellers,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Dave Dennis,person,False,1,9,10,0.07894736842105263,0.025782129680181683,0.004690824575585992,9.0,14.0,56.0
+expanded_second_pass,arc_apex,Council of Federated Organizations,organisation,False,1,2,3,0.02631578947368421,0.0016609614383742296,0.0028408626989287556,51.0,40.0,84.0
+expanded_second_pass,arc_apex,Mississippi Freedom Summer,campaign,False,2,1,3,0.02631578947368421,0.0016609614383742296,0.004048313660365612,51.0,40.0,67.0
+expanded_second_pass,arc_apex,Freedom Summer,campaign,False,4,0,4,0.03508771929824561,0.004742820643003924,0.015188618582320536,37.0,32.0,18.0
+expanded_second_pass,arc_apex,James Chaney,person,False,2,2,4,0.03508771929824561,0.0011905377997599702,0.004563305238294717,37.0,46.0,57.0
+expanded_second_pass,arc_apex,Schwerner,person,False,2,1,3,0.02631578947368421,0.0004380420076740524,0.004563305238294717,51.0,55.0,57.0
+expanded_second_pass,arc_apex,Dennis,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Dorie Ladner,person,False,0,2,2,0.017543859649122806,0.0,0.0023978201906932096,72.0,63.0,90.0
+expanded_second_pass,arc_apex,Freedom houses,campaign,False,2,2,4,0.02631578947368421,0.00021865134813434765,0.009701586763916258,37.0,58.0,26.0
+expanded_second_pass,arc_apex,Mennonite House,place,False,1,1,2,0.017543859649122806,7.76276975624903e-05,0.003991059838421891,72.0,62.0,68.0
+expanded_second_pass,arc_apex,Federal Bureau of Investigation,organisation,False,1,2,3,0.017543859649122806,0.0,0.0042588369537848,51.0,63.0,61.0
+expanded_second_pass,arc_apex,Len Holt,person,False,1,0,1,0.008771929824561403,0.0,0.006675118042670148,90.0,63.0,37.0
+expanded_second_pass,arc_apex,"Montgomery, Alabama",place,False,3,0,3,0.02631578947368421,0.001318965152220858,0.02504102651486166,51.0,44.0,8.0
+expanded_second_pass,arc_apex,Freedom Schools,organisation,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Howard Zinn,person,False,0,2,2,0.017543859649122806,0.0011481058057676596,0.0023978201906932096,72.0,49.0,90.0
+expanded_second_pass,arc_apex,I Have a Dream speech,publication,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Intifadah Movement,movement,False,0,2,2,0.017543859649122806,0.0,0.0023978201906932096,72.0,63.0,90.0
+expanded_second_pass,arc_apex,James Forman,activist,True,0,2,2,0.017543859649122806,0.0,0.0023978201906932096,72.0,63.0,90.0
+expanded_second_pass,arc_apex,open housing movement,movement,False,2,1,3,0.02631578947368421,0.0013494281426279554,0.005646178750501018,51.0,43.0,42.0
+expanded_second_pass,arc_apex,Jean Wiley,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Mary King,person,False,1,1,2,0.017543859649122806,0.0,0.003911426085027028,72.0,63.0,69.0
+expanded_second_pass,arc_apex,University of Oxford,place,False,1,0,1,0.008771929824561403,0.0,0.004788627791395814,90.0,63.0,54.0
+expanded_second_pass,arc_apex,Monson Motor Lodge,place,False,1,1,2,0.017543859649122806,0.0,0.0042588369537848,72.0,63.0,61.0
+expanded_second_pass,arc_apex,Montgomery Improvement Association,organisation,False,1,2,3,0.02631578947368421,0.002066509798228475,0.0042588369537848,51.0,38.0,61.0
+expanded_second_pass,arc_apex,Newcastle upon Tyne,place,False,1,0,1,0.008771929824561403,0.0,0.0042588369537848,90.0,63.0,61.0
+expanded_second_pass,arc_apex,Poor People's Campaign,campaign,False,1,0,1,0.008771929824561403,0.0,0.0042588369537848,90.0,63.0,61.0
+expanded_second_pass,arc_apex,Mississippi Goddamn,publication,False,1,0,1,0.008771929824561403,0.0,0.0044715120241823406,90.0,63.0,59.0
+expanded_second_pass,arc_apex,Miami,place,False,2,1,3,0.02631578947368421,0.000146630095395815,0.016962419493480894,51.0,60.0,15.0
+expanded_second_pass,arc_apex,NAACP Richland County Citizens Committee,organisation,False,1,0,1,0.008771929824561403,0.0,0.003247188294198632,90.0,63.0,80.0
+expanded_second_pass,arc_apex,Rev. I. De Quincy Newman,person,False,1,1,2,0.017543859649122806,0.0,0.003247188294198632,72.0,63.0,80.0
+expanded_second_pass,arc_apex,Richland County Citizens Committee,organisation,False,1,0,1,0.008771929824561403,0.0,0.003247188294198632,90.0,63.0,80.0
+expanded_second_pass,arc_apex,Roy Wilkins,person,False,2,2,4,0.02631578947368421,0.001171069266085568,0.005289363924186866,37.0,47.0,50.0
+expanded_second_pass,arc_apex,Gibson v. Florida Legislative Investigation Committee,law,False,1,0,1,0.008771929824561403,0.0,0.004439995820681443,90.0,63.0,60.0
+expanded_second_pass,arc_apex,Rachel,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,Sojourner Truth,person,False,2,2,4,0.02631578947368421,0.0,0.009453493443144953,37.0,63.0,27.0
+expanded_second_pass,arc_apex,Sojourner Truth Motor Fleet,organisation,False,3,2,5,0.02631578947368421,0.0,0.0138628826577242,29.0,63.0,20.0
+expanded_second_pass,arc_apex,Shen Tong,person,False,0,2,2,0.017543859649122806,0.0,0.0023978201906932096,72.0,63.0,90.0
+expanded_second_pass,arc_apex,Sojourner Truth Garage,organisation,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_apex,night marches,campaign,False,1,1,2,0.017543859649122806,0.0,0.004939518406620702,72.0,63.0,51.0
+expanded_second_pass,arc_apex,WATS Reports,publication,False,1,0,1,0.008771929824561403,0.0,0.008682459201580558,90.0,63.0,28.0
+expanded_second_pass,arc_apex,Whitney Young,person,False,0,1,1,0.008771929824561403,0.0,0.0023978201906932096,90.0,63.0,90.0
+expanded_second_pass,arc_lite,A. Philip Randolph,activist,True,0,4,4,0.04040404040404041,0.020905176402474128,0.003029307996523934,25.0,20.0,68.0
+expanded_second_pass,arc_lite,Civil Rights Movement,movement,False,13,10,23,0.21212121212121213,0.23703132061835125,0.039911450574896486,3.0,3.0,6.0
+expanded_second_pass,arc_lite,March on Washington Movement,movement,False,1,0,1,0.010101010101010102,0.0,0.003673042968201724,68.0,50.0,60.0
+expanded_second_pass,arc_lite,March on Washington for Jobs and Freedom,event,True,5,2,7,0.06060606060606061,0.024829177287574833,0.010322926708666084,10.0,16.0,27.0
+expanded_second_pass,arc_lite,Martin Luther King Jr.,activist,True,18,14,32,0.29292929292929293,0.2844782269359526,0.05657357506171005,1.0,2.0,2.0
+expanded_second_pass,arc_lite,Alabama,place,False,3,1,4,0.04040404040404041,0.0144793877565247,0.019421599269741532,25.0,27.0,13.0
+expanded_second_pass,arc_lite,Brown v. Board of Education,law,False,2,5,7,0.07070707070707072,0.014843429380548567,0.025292203965327255,10.0,25.0,8.0
+expanded_second_pass,arc_lite,"Albany, Georgia",place,False,0,2,2,0.020202020202020204,0.0,0.003029307996523934,43.0,50.0,68.0
+expanded_second_pass,arc_lite,Southern Christian Leadership Conference,organisation,True,8,6,14,0.13131313131313133,0.1588639396967399,0.02102916800856445,5.0,5.0,11.0
+expanded_second_pass,arc_lite,Student Nonviolent Coordinating Committee,organisation,True,25,7,32,0.30303030303030304,0.39938611635936905,0.07421010150049924,1.0,1.0,1.0
+expanded_second_pass,arc_lite,Alvin J. Bronstein,person,False,0,6,6,0.06060606060606061,0.0061910064920359924,0.003029307996523934,17.0,34.0,68.0
+expanded_second_pass,arc_lite,Civil Rights Act 1964,law,False,1,6,7,0.07070707070707072,0.007828326875945923,0.0034584646443091274,10.0,32.0,63.0
+expanded_second_pass,arc_lite,Congress of Racial Equality,organisation,True,6,4,10,0.10101010101010102,0.08025086328271246,0.012290978968699486,6.0,7.0,20.0
+expanded_second_pass,arc_lite,Freedom Rides,event,True,5,2,7,0.07070707070707072,0.07322442985660739,0.017073380031693716,10.0,8.0,15.0
+expanded_second_pass,arc_lite,St Augustine,place,False,8,1,9,0.08080808080808081,0.01097547486723711,0.041172937034538865,8.0,31.0,5.0
+expanded_second_pass,arc_lite,Tobias Simon,person,False,4,4,8,0.08080808080808081,0.020954061013820115,0.015215907192146775,9.0,19.0,17.0
+expanded_second_pass,arc_lite,Andrew Young,activist,True,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Atlanta,place,False,3,3,6,0.06060606060606061,0.05498500835055676,0.014079462024735768,17.0,10.0,18.0
+expanded_second_pass,arc_lite,John Lewis,activist,True,1,3,4,0.04040404040404041,0.023000642791190594,0.007018825904080127,25.0,17.0,36.0
+expanded_second_pass,arc_lite,Bayard Rustin,activist,True,0,7,7,0.07070707070707072,0.08691459166000966,0.003029307996523934,10.0,6.0,68.0
+expanded_second_pass,arc_lite,Black Power,movement,False,3,2,5,0.04040404040404041,0.004260289974575689,0.018192627132493623,21.0,36.0,14.0
+expanded_second_pass,arc_lite,Freedom Budget for All Americans,campaign,False,1,0,1,0.010101010101010102,0.0,0.0033971565517683855,68.0,50.0,64.0
+expanded_second_pass,arc_lite,Mahatma Gandhi,person,False,4,1,5,0.05050505050505051,0.007193165866635253,0.010848870237342878,21.0,33.0,25.0
+expanded_second_pass,arc_lite,Solidarity movement,movement,False,1,0,1,0.010101010101010102,0.0,0.0033971565517683855,68.0,50.0,64.0
+expanded_second_pass,arc_lite,United Federation of Teachers,organisation,False,2,0,2,0.020202020202020204,0.0202020202020202,0.0059720964384795475,43.0,21.0,47.0
+expanded_second_pass,arc_lite,Black Panther Party,organisation,False,0,3,3,0.030303030303030304,0.0040149769473077765,0.003029307996523934,35.0,37.0,68.0
+expanded_second_pass,arc_lite,Malcolm X,activist,True,2,2,4,0.04040404040404041,0.0020339448910877476,0.005175091235449902,25.0,41.0,51.0
+expanded_second_pass,arc_lite,James Groppi,person,False,1,1,2,0.020202020202020204,0.004762252506613408,0.01076445132080875,43.0,35.0,26.0
+expanded_second_pass,arc_lite,Stokely Carmichael,activist,True,3,1,4,0.030303030303030304,0.0040149769473077765,0.016398846031383182,25.0,37.0,16.0
+expanded_second_pass,arc_lite,Black Power Movement,movement,False,0,2,2,0.020202020202020204,0.0013512186981574734,0.003029307996523934,43.0,43.0,68.0
+expanded_second_pass,arc_lite,Bob Moses,activist,True,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Bristol Bus Boycott,event,False,0,3,3,0.030303030303030304,0.0009472764574805388,0.003029307996523934,35.0,47.0,68.0
+expanded_second_pass,arc_lite,Montgomery Bus Boycott,event,True,5,5,10,0.09090909090909091,0.03961026127276025,0.038454611580341434,6.0,15.0,7.0
+expanded_second_pass,arc_lite,Florida,place,False,4,2,6,0.05050505050505051,0.0014859353294727437,0.048954175227916605,17.0,42.0,3.0
+expanded_second_pass,arc_lite,Jim Crow regime,law,False,4,1,5,0.05050505050505051,0.014097292199185128,0.0201093235491341,21.0,29.0,12.0
+expanded_second_pass,arc_lite,Rosa Parks,activist,True,5,1,6,0.05050505050505051,0.0025087322961017872,0.025047474111822395,17.0,40.0,9.0
+expanded_second_pass,arc_lite,Byron De La Beckwith,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Medgar Evers,activist,True,2,2,4,0.04040404040404041,0.04019789734075448,0.0059720964384795475,25.0,14.0,47.0
+expanded_second_pass,arc_lite,Carl Rachlin,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Charles Billups,person,False,0,4,4,0.04040404040404041,0.02190613619185047,0.003029307996523934,25.0,18.0,68.0
+expanded_second_pass,arc_lite,Birmingham,place,False,1,0,1,0.010101010101010102,0.0,0.003673042968201724,68.0,50.0,60.0
+expanded_second_pass,arc_lite,Chicago,place,False,2,1,3,0.030303030303030304,0.00020614306328592042,0.009167768040101533,35.0,49.0,31.0
+expanded_second_pass,arc_lite,Charles McDew,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Lyndon Johnson,person,False,2,1,3,0.030303030303030304,0.0,0.0069116026707617285,35.0,50.0,37.0
+expanded_second_pass,arc_lite,Harry Belafonte,person,False,1,1,2,0.020202020202020204,0.013866950701232996,0.006421648536519911,43.0,30.0,42.0
+expanded_second_pass,arc_lite,James Lawson,activist,True,1,2,3,0.030303030303030304,0.0,0.006421648536519911,35.0,50.0,42.0
+expanded_second_pass,arc_lite,National Association for the Advancement of Colored People,organisation,True,9,7,16,0.15151515151515152,0.18886683704140947,0.047369150357032014,4.0,4.0,4.0
+expanded_second_pass,arc_lite,Watts,place,False,2,0,2,0.020202020202020204,0.0,0.009856611006889395,43.0,50.0,28.0
+expanded_second_pass,arc_lite,Brooklyn,place,False,1,0,1,0.010101010101010102,0.0,0.005641164639047602,68.0,50.0,49.0
+expanded_second_pass,arc_lite,Miami,place,False,2,0,2,0.020202020202020204,0.0,0.008873780394193106,43.0,50.0,32.0
+expanded_second_pass,arc_lite,Council of Federated Organizations,organisation,False,1,1,2,0.020202020202020204,0.0,0.0033971565517683855,43.0,50.0,64.0
+expanded_second_pass,arc_lite,Mississippi Freedom Summer,campaign,False,2,1,3,0.030303030303030304,0.014529174300355501,0.006284769225970757,35.0,26.0,45.0
+expanded_second_pass,arc_lite,Dave Dennis,person,False,0,7,7,0.07070707070707072,0.04443398169434042,0.003029307996523934,10.0,12.0,68.0
+expanded_second_pass,arc_lite,James Chaney,person,False,1,2,3,0.030303030303030304,0.0011143177809844471,0.0033971565517683855,35.0,45.0,64.0
+expanded_second_pass,arc_lite,Dorie Ladner,person,False,0,2,2,0.020202020202020204,0.0,0.003029307996523934,43.0,50.0,68.0
+expanded_second_pass,arc_lite,Freedom houses,campaign,False,1,1,2,0.020202020202020204,0.0,0.004316777939879515,43.0,50.0,54.0
+expanded_second_pass,arc_lite,Ella Baker,activist,True,0,4,4,0.04040404040404041,0.04887950673846683,0.003029307996523934,25.0,11.0,68.0
+expanded_second_pass,arc_lite,Modjeska Monteith Simkins,person,False,1,4,5,0.05050505050505051,0.0627267164682131,0.003673042968201724,21.0,9.0,60.0
+expanded_second_pass,arc_lite,Ruby Doris Smith Robinson,person,False,2,5,7,0.07070707070707072,0.014111560884241247,0.004960512911557306,10.0,28.0,52.0
+expanded_second_pass,arc_lite,Fannie Lou Hamer,activist,True,0,2,2,0.020202020202020204,0.0035948613561476886,0.003029307996523934,43.0,39.0,68.0
+expanded_second_pass,arc_lite,Mennonite House,place,False,1,1,2,0.020202020202020204,0.0011099004296283208,0.004316777939879515,43.0,46.0,54.0
+expanded_second_pass,arc_lite,Federal Bureau of Investigation,organisation,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Freedom Singers,organisation,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Howard Zinn,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Intifadah Movement,movement,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Israel S. (Sy) Dresner,person,False,0,2,2,0.020202020202020204,0.0,0.003029307996523934,43.0,50.0,68.0
+expanded_second_pass,arc_lite,Schwerner,person,False,1,1,2,0.020202020202020204,0.0,0.00447311433362512,43.0,50.0,53.0
+expanded_second_pass,arc_lite,James Forman,activist,True,0,2,2,0.020202020202020204,0.0,0.003029307996523934,43.0,50.0,68.0
+expanded_second_pass,arc_lite,Jean Wiley,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Selma,place,False,2,0,2,0.020202020202020204,0.001341658440150009,0.022109708373708428,43.0,44.0,10.0
+expanded_second_pass,arc_lite,Julian Bond,person,False,0,3,3,0.030303030303030304,0.0202020202020202,0.003029307996523934,35.0,21.0,68.0
+expanded_second_pass,arc_lite,Jeanne Theoharis,person,False,1,0,1,0.010101010101010102,0.0,0.0038876212920943218,68.0,50.0,56.0
+expanded_second_pass,arc_lite,Mary King,person,False,1,1,2,0.020202020202020204,0.0,0.0038876212920943218,43.0,50.0,56.0
+expanded_second_pass,arc_lite,Ku Klux Klan,organisation,False,1,1,2,0.010101010101010102,0.0,0.012040739884460088,43.0,50.0,21.0
+expanded_second_pass,arc_lite,Chicago campaign,campaign,False,2,0,2,0.020202020202020204,0.0,0.00944297210380396,43.0,50.0,30.0
+expanded_second_pass,arc_lite,Monson Motor Lodge,place,False,1,1,2,0.020202020202020204,0.0,0.006464270466893419,43.0,50.0,38.0
+expanded_second_pass,arc_lite,Montgomery Improvement Association,organisation,False,1,1,2,0.020202020202020204,0.0009472764574805388,0.006464270466893419,43.0,47.0,38.0
+expanded_second_pass,arc_lite,Newcastle upon Tyne,place,False,1,0,1,0.010101010101010102,0.0,0.006464270466893419,68.0,50.0,38.0
+expanded_second_pass,arc_lite,open housing movement,movement,False,1,1,2,0.020202020202020204,0.0,0.006464270466893419,43.0,50.0,38.0
+expanded_second_pass,arc_lite,Mississippi Goddamn,publication,False,1,0,1,0.010101010101010102,0.0,0.005567469089844354,68.0,50.0,50.0
+expanded_second_pass,arc_lite,Mississippi Freedom Schools,organisation,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,NAACP Richland County Citizens Committee,organisation,False,2,0,2,0.020202020202020204,0.0202020202020202,0.00638477719944029,43.0,21.0,44.0
+expanded_second_pass,arc_lite,Richland County Citizens Committee,organisation,False,1,0,1,0.010101010101010102,0.0,0.003809837312729129,68.0,50.0,58.0
+expanded_second_pass,arc_lite,Roy Wilkins,person,False,1,1,2,0.020202020202020204,0.0,0.003809837312729129,43.0,50.0,58.0
+expanded_second_pass,arc_lite,"Montgomery, Alabama",place,False,1,0,1,0.010101010101010102,0.0,0.00956687297759737,68.0,50.0,29.0
+expanded_second_pass,arc_lite,Gibson v. Florida Legislative Investigation Committee,law,False,1,0,1,0.010101010101010102,0.0,0.00878255336184194,68.0,50.0,33.0
+expanded_second_pass,arc_lite,Rachel,person,False,1,0,1,0.010101010101010102,0.0,0.00878255336184194,68.0,50.0,33.0
+expanded_second_pass,arc_lite,New York City school strikes,event,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Patricia Stephens Due,person,False,0,4,4,0.04040404040404041,0.04352768487922859,0.003029307996523934,25.0,13.0,68.0
+expanded_second_pass,arc_lite,Rev. I. De Quincy Newman,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Sojourner Truth Motor Fleet,organisation,False,2,2,4,0.030303030303030304,0.0202020202020202,0.01288403428866809,25.0,21.0,19.0
+expanded_second_pass,arc_lite,Septima Clark,person,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,Shen Tong,person,False,0,2,2,0.020202020202020204,0.0,0.003029307996523934,43.0,50.0,68.0
+expanded_second_pass,arc_lite,Sojourner Truth,person,False,1,0,1,0.010101010101010102,0.0,0.008505201272551418,68.0,50.0,35.0
+expanded_second_pass,arc_lite,night marches,campaign,False,1,0,1,0.010101010101010102,0.0,0.006008009633434475,68.0,50.0,46.0
+expanded_second_pass,arc_lite,Freedom Schools,organisation,False,1,0,1,0.010101010101010102,0.0,0.012040739884460088,68.0,50.0,21.0
+expanded_second_pass,arc_lite,Freedom Summer,campaign,False,1,0,1,0.010101010101010102,0.0,0.012040739884460088,68.0,50.0,21.0
+expanded_second_pass,arc_lite,Sojourner Truth Garage,organisation,False,1,0,1,0.010101010101010102,0.0,0.012040739884460088,68.0,50.0,21.0
+expanded_second_pass,arc_lite,lunch counter sit-ins,campaign,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,arc_lite,sit-in movement,movement,False,0,1,1,0.010101010101010102,0.0,0.003029307996523934,68.0,50.0,68.0
+expanded_second_pass,qwen_plus,A. Philip Randolph,activist,True,0,7,7,0.07777777777777778,0.02862030950045933,0.004118679025226255,15.0,14.0,78.0
+expanded_second_pass,qwen_plus,Brown v. Board of Education,law,False,1,3,4,0.044444444444444446,0.0,0.004618792623899136,27.0,38.0,73.0
+expanded_second_pass,qwen_plus,Civil Rights Movement,movement,False,18,13,31,0.2888888888888889,0.2185620628504524,0.06563865894971062,3.0,3.0,2.0
+expanded_second_pass,qwen_plus,Jim Crow regime,law,False,10,0,10,0.11111111111111112,0.04947780406581905,0.033556138832931064,10.0,11.0,5.0
+expanded_second_pass,qwen_plus,March on Washington Movement,movement,False,1,0,1,0.011111111111111112,0.0,0.004618792623899136,67.0,38.0,73.0
+expanded_second_pass,qwen_plus,March on Washington for Jobs and Freedom,event,True,4,0,4,0.044444444444444446,0.010853496621286884,0.00892355453957777,27.0,21.0,34.0
+expanded_second_pass,qwen_plus,National Association for the Advancement of Colored People,organisation,True,12,4,16,0.16666666666666669,0.15011423796067994,0.02703142936497967,5.0,4.0,8.0
+expanded_second_pass,qwen_plus,Reconstruction,event,False,2,1,3,0.03333333333333333,0.0026118145968333233,0.005900903678209194,35.0,31.0,49.0
+expanded_second_pass,qwen_plus,"Albany, Georgia",place,False,1,2,3,0.022222222222222223,0.0,0.010784393822279447,35.0,38.0,22.0
+expanded_second_pass,qwen_plus,Southern Christian Leadership Conference,organisation,True,11,6,17,0.15555555555555556,0.09465566892533184,0.03771682417907114,4.0,6.0,4.0
+expanded_second_pass,qwen_plus,Student Nonviolent Coordinating Committee,organisation,True,25,14,39,0.33333333333333337,0.3334972940778183,0.1098097958948781,1.0,2.0,1.0
+expanded_second_pass,qwen_plus,Alvin J. Bronstein,person,False,0,8,8,0.08888888888888889,0.008602945812683642,0.004118679025226255,12.0,24.0,78.0
+expanded_second_pass,qwen_plus,Civil Rights Act 1964,law,False,2,5,7,0.06666666666666667,0.0037170798406753447,0.01396587262464117,15.0,30.0,15.0
+expanded_second_pass,qwen_plus,Congress of Racial Equality,organisation,True,7,6,13,0.14444444444444446,0.052626090098000226,0.018196618050970073,6.0,10.0,10.0
+expanded_second_pass,qwen_plus,Freedom Rides,event,True,10,2,12,0.12222222222222223,0.05570428600391148,0.030821037228976493,8.0,9.0,7.0
+expanded_second_pass,qwen_plus,Ku Klux Klan,organisation,False,3,0,3,0.03333333333333333,0.001091105454401335,0.015805901990502715,35.0,35.0,13.0
+expanded_second_pass,qwen_plus,St Augustine,place,False,9,3,12,0.11111111111111112,0.021086680693422264,0.03320700630088433,8.0,19.0,6.0
+expanded_second_pass,qwen_plus,Tobias Simon,person,False,4,2,6,0.06666666666666667,0.0013714008283296673,0.016769134992804677,21.0,33.0,11.0
+expanded_second_pass,qwen_plus,Andrew Young,activist,True,0,2,2,0.022222222222222223,0.0,0.004118679025226255,47.0,38.0,78.0
+expanded_second_pass,qwen_plus,Bayard Rustin,activist,True,1,9,10,0.11111111111111112,0.10142104115886881,0.006865006254421703,10.0,5.0,40.0
+expanded_second_pass,qwen_plus,Black Power,movement,False,2,2,4,0.044444444444444446,0.024592374611101208,0.0060491811207645275,27.0,15.0,48.0
+expanded_second_pass,qwen_plus,Black Power Movement,movement,False,1,0,1,0.011111111111111112,0.0,0.004767070066454469,67.0,38.0,69.0
+expanded_second_pass,qwen_plus,Freedom Budget for All Americans,campaign,False,1,0,1,0.011111111111111112,0.0,0.004767070066454469,67.0,38.0,69.0
+expanded_second_pass,qwen_plus,New York City school strikes,event,False,1,0,1,0.011111111111111112,0.0,0.004767070066454469,67.0,38.0,69.0
+expanded_second_pass,qwen_plus,Solidarity movement,movement,False,2,0,2,0.022222222222222223,0.0,0.009058994457425962,47.0,38.0,33.0
+expanded_second_pass,qwen_plus,United Federation of Teachers,organisation,False,1,0,1,0.011111111111111112,0.0,0.004767070066454469,67.0,38.0,69.0
+expanded_second_pass,qwen_plus,Modjeska Monteith Simkins,person,False,1,7,8,0.08888888888888889,0.08832362324871687,0.006689613542178462,12.0,7.0,42.0
+expanded_second_pass,qwen_plus,Patricia Stephens Due,person,False,1,4,5,0.05555555555555556,0.004737134137883203,0.006689613542178462,22.0,28.0,42.0
+expanded_second_pass,qwen_plus,Bristol Bus Boycott,event,False,1,1,2,0.011111111111111112,0.0,0.005400790079536314,47.0,38.0,51.0
+expanded_second_pass,qwen_plus,Martin Luther King Jr.,activist,True,10,27,37,0.34444444444444444,0.3391021753943103,0.040721966823553245,2.0,1.0,3.0
+expanded_second_pass,qwen_plus,Carl Rachlin,person,False,0,1,1,0.011111111111111112,0.0,0.004118679025226255,67.0,38.0,78.0
+expanded_second_pass,qwen_plus,Charles Billups,person,False,0,4,4,0.044444444444444446,0.023763351366347607,0.004118679025226255,27.0,16.0,78.0
+expanded_second_pass,qwen_plus,Birmingham,place,False,1,0,1,0.011111111111111112,0.0,0.004993877822903797,67.0,38.0,63.0
+expanded_second_pass,qwen_plus,Chicago,place,False,2,0,2,0.022222222222222223,0.0,0.006275988877213856,47.0,38.0,44.0
+expanded_second_pass,qwen_plus,Lyndon Johnson,person,False,3,1,4,0.03333333333333333,0.0009957790856667261,0.012066974290648166,27.0,36.0,18.0
+expanded_second_pass,qwen_plus,Intifadah Movement,movement,False,2,0,2,0.022222222222222223,0.0,0.009692714470507808,47.0,38.0,28.0
+expanded_second_pass,qwen_plus,Julian Bond,person,False,2,2,4,0.044444444444444446,0.003909703834797466,0.010161001011552834,27.0,29.0,27.0
+expanded_second_pass,qwen_plus,Mahatma Gandhi,person,False,2,3,5,0.044444444444444446,0.006090601034421259,0.009692714470507808,22.0,26.0,28.0
+expanded_second_pass,qwen_plus,Montgomery Bus Boycott,event,True,7,6,13,0.12222222222222223,0.059491819042380815,0.018261741420278876,6.0,8.0,9.0
+expanded_second_pass,qwen_plus,sit-in movement,movement,False,1,3,4,0.03333333333333333,0.001892429944864402,0.008410603416197747,27.0,32.0,37.0
+expanded_second_pass,qwen_plus,Cleveland Sellers,person,False,0,1,1,0.011111111111111112,0.0,0.004118679025226255,67.0,38.0,78.0
+expanded_second_pass,qwen_plus,Council of Federated Organizations,organisation,False,2,5,7,0.07777777777777778,0.008432484424993789,0.007196727717153852,15.0,25.0,39.0
+expanded_second_pass,qwen_plus,Freedom houses,campaign,False,2,3,5,0.044444444444444446,0.001200393447584459,0.012007822759442592,22.0,34.0,20.0
+expanded_second_pass,qwen_plus,Mississippi Freedom Summer,campaign,False,2,0,2,0.022222222222222223,0.0,0.012007822759442592,47.0,38.0,20.0
+expanded_second_pass,qwen_plus,Dave Dennis,person,False,0,7,7,0.07777777777777778,0.009656183738580746,0.004118679025226255,15.0,22.0,78.0
+expanded_second_pass,qwen_plus,James Chaney,person,False,1,2,3,0.03333333333333333,0.0,0.004618792623899136,35.0,38.0,73.0
+expanded_second_pass,qwen_plus,Medgar Evers,activist,True,1,2,3,0.03333333333333333,0.022222222222222223,0.004618792623899136,35.0,18.0,73.0
+expanded_second_pass,qwen_plus,Schwerner,person,False,1,2,3,0.03333333333333333,0.0,0.004618792623899136,35.0,38.0,73.0
+expanded_second_pass,qwen_plus,Diane Nash,activist,True,0,2,2,0.022222222222222223,0.0,0.004118679025226255,47.0,38.0,78.0
+expanded_second_pass,qwen_plus,Rosa Parks,activist,True,4,4,8,0.08888888888888889,0.018178939939239566,0.009379316302828265,12.0,20.0,31.0
+expanded_second_pass,qwen_plus,Ella Baker,activist,True,1,6,7,0.06666666666666667,0.02990003407606403,0.010784393822279447,15.0,13.0,22.0
+expanded_second_pass,qwen_plus,Ruby Doris Smith Robinson,person,False,1,6,7,0.07777777777777778,0.047381267643439945,0.005646648615021086,15.0,12.0,50.0
+expanded_second_pass,qwen_plus,Fannie Lou Hamer,activist,True,0,5,5,0.05555555555555556,0.023157164655291988,0.004118679025226255,22.0,17.0,78.0
+expanded_second_pass,qwen_plus,Mennonite House,place,False,1,0,1,0.011111111111111112,0.0,0.004818838063368289,67.0,38.0,68.0
+expanded_second_pass,qwen_plus,Federal Bureau of Investigation,organisation,False,1,1,2,0.011111111111111112,0.0,0.005400790079536314,47.0,38.0,51.0
+expanded_second_pass,qwen_plus,Florida,place,False,0,2,2,0.022222222222222223,0.0,0.004118679025226255,47.0,38.0,78.0
+expanded_second_pass,qwen_plus,Freedom Singers,organisation,False,1,1,2,0.011111111111111112,0.0,0.010784393822279447,47.0,38.0,22.0
+expanded_second_pass,qwen_plus,Freedom Summer,campaign,False,2,0,2,0.022222222222222223,0.0,0.014186993059131832,47.0,38.0,14.0
+expanded_second_pass,qwen_plus,Harry Belafonte,person,False,0,1,1,0.011111111111111112,0.0,0.004118679025226255,67.0,38.0,78.0
+expanded_second_pass,qwen_plus,Israel S. (Sy) Dresner,person,False,0,3,3,0.03333333333333333,0.005692190317658485,0.004118679025226255,35.0,27.0,78.0
+expanded_second_pass,qwen_plus,James Lawson,activist,True,1,2,3,0.03333333333333333,0.0,0.006865006254421703,35.0,38.0,40.0
+expanded_second_pass,qwen_plus,Jeanne Theoharis,person,False,0,2,2,0.022222222222222223,0.0,0.004118679025226255,47.0,38.0,78.0
+expanded_second_pass,qwen_plus,John Lewis,activist,True,1,1,2,0.011111111111111112,0.0,0.010784393822279447,47.0,38.0,22.0
+expanded_second_pass,qwen_plus,Mary King,person,False,1,1,2,0.022222222222222223,0.0,0.008437189738688915,47.0,38.0,36.0
+expanded_second_pass,qwen_plus,Len Holt,person,False,0,1,1,0.011111111111111112,0.0,0.004118679025226255,67.0,38.0,78.0
+expanded_second_pass,qwen_plus,Beyond Vietnam,publication,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Black Panther Party,organisation,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Malcolm X,activist,True,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Monson Motor Lodge,place,False,1,1,2,0.022222222222222223,0.0,0.005400790079536314,47.0,38.0,51.0
+expanded_second_pass,qwen_plus,Montgomery,place,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Montgomery Improvement Association,organisation,False,2,0,2,0.022222222222222223,0.0,0.00798780708394418,47.0,38.0,38.0
+expanded_second_pass,qwen_plus,Newcastle upon Tyne,place,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Poor People's Campaign,campaign,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Roy Wilkins,person,False,2,1,3,0.03333333333333333,0.009064562154449793,0.0062131268552203574,35.0,23.0,45.0
+expanded_second_pass,qwen_plus,Watts,place,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Whitney Young,person,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,open housing movement,movement,False,1,0,1,0.011111111111111112,0.0,0.005400790079536314,67.0,38.0,51.0
+expanded_second_pass,qwen_plus,Mississippi Goddamn,publication,False,1,0,1,0.011111111111111112,0.0,0.006081637569777966,67.0,38.0,47.0
+expanded_second_pass,qwen_plus,NAACP Richland County Citizens Committee,organisation,False,2,1,3,0.03333333333333333,0.00012484394506866417,0.00912233125984207,35.0,37.0,32.0
+expanded_second_pass,qwen_plus,Rachel,person,False,1,0,1,0.011111111111111112,0.0,0.004931015800910299,67.0,38.0,64.0
+expanded_second_pass,qwen_plus,Rev. I. De Quincy Newman,person,False,1,1,2,0.022222222222222223,0.0,0.004931015800910299,47.0,38.0,64.0
+expanded_second_pass,qwen_plus,Richland County Citizens Committee,organisation,False,2,0,2,0.022222222222222223,0.0,0.012685164347049215,47.0,38.0,17.0
+expanded_second_pass,qwen_plus,"Montgomery, Alabama",place,False,2,0,2,0.022222222222222223,0.0,0.0086986522866829,47.0,38.0,35.0
+expanded_second_pass,qwen_plus,Septima Clark,person,False,1,2,3,0.03333333333333333,0.0,0.006111635282275036,35.0,38.0,46.0
+expanded_second_pass,qwen_plus,Alabama,place,False,1,0,1,0.011111111111111112,0.0,0.004918485828731385,67.0,38.0,66.0
+expanded_second_pass,qwen_plus,Atlanta,place,False,1,0,1,0.011111111111111112,0.0,0.004918485828731385,67.0,38.0,66.0
+expanded_second_pass,qwen_plus,Sojourner Truth,person,False,2,2,4,0.03333333333333333,0.0,0.012012229674243103,27.0,38.0,19.0
+expanded_second_pass,qwen_plus,Sojourner Truth Motor Fleet,organisation,False,3,2,5,0.03333333333333333,0.0,0.016684877633196333,22.0,38.0,12.0
+expanded_second_pass,qwen_plus,night marches,campaign,False,1,0,1,0.011111111111111112,0.0,0.009461676109739695,67.0,38.0,30.0
+expanded_second_pass,qwen_plus,WATS Reports,publication,False,1,2,3,0.022222222222222223,0.0,0.010784393822279447,35.0,38.0,22.0
+expanded_second_pass,qwen_plus,lunch counter sit-ins,campaign,False,2,0,2,0.022222222222222223,0.0,0.013167425416462425,47.0,38.0,16.0
