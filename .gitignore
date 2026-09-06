@@ -1,0 +1,22 @@
+# Secret credentials
+.env
+*.key
+*api_key*
+*API_KEY*
+*secret*
+*token*
+
+# Jupyter notebook clutter
+.ipynb_checkpoints/
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Optional: local raw response logs if they contain messy/private data
+*_response_log.json
+*_responses.jsonl
